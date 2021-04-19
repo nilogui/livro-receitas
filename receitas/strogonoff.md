@@ -1,4 +1,4 @@
-# Strogonoff de Frango 
+﻿# Strogonoff de Frango 
 
 **Negrito** _Itálico_
 
@@ -9,3 +9,4 @@
 ### **Modo de Preparo**
 1.   Item da lista
 2.   Item da lista
+3.   Item da lista
